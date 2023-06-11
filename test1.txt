@@ -2,3 +2,4 @@ This is Alex.
 I born in 1990.
 I live in Berlin.
 I am fullstack web developer.
+I like traveling.
